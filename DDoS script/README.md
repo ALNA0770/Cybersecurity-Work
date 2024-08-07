@@ -1,6 +1,3 @@
-Certainly! Here's a README with emojis included:
-
----
 
 # DDoS Attack Script 🛡️
 
